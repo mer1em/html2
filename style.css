@@ -1,8 +1,12 @@
 .box{
-    width: 357px;
-    border: 1px solid rgba(180, 180, 180, 1);
+    width: 1249px;
+    height: 376px;
+    margin-top: 73px;
+    margin-left: 86px;
+    border-radius: 30px;
+    background-color: rgba(34, 244, 218, 1);
 }
-.img{
-    width: 305px;
-    height: 226px;
+h2{
+    padding-top: 102px;
+    padding-left: 622px;
 }
